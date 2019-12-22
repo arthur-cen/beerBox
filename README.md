@@ -1,3 +1,4 @@
+![cover](./images/cover.jpeg)
 # Intention
 This project establishes an entertaining challenge for the purpose of team building and de-stressing in our community. The motive is to get people to come together to solve this series of challenges, and to introduce more fun into our campus environment. Each challenge corresponds to a hidden box that players must locate and unlock to get to the next stage of the game. The puzzles culminate in a prize... beer!
 
@@ -40,7 +41,7 @@ The related context is that the boxes will be stored in dry places on campus. Ea
 
 # Prototype and Implementation
 
-**Riddle Box #1**
+## Riddle Box #1
 
 List of materials 
 
@@ -71,7 +72,7 @@ Riddle Box #2 features three potentiometers as input that maps from 0 to 9. The 
 ![riddle_box2_image](./images/riddle_box2_image.jpeg)
 ![riddle_box2_diagram](./images/riddle_box2_diagram.jpg)
 
-**The Beer Box**
+## The Beer Box
 
 List of materials
 
