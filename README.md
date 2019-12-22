@@ -96,6 +96,9 @@ This game idea was well thought out in that it could actually be used on campus,
 
 ## Contributers
 Anna Gipsov
+
 Arthur Cen
+
 Shrey Agrawal
+
 Austin Van Vark
